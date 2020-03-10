@@ -91,7 +91,8 @@
           "options": {
             "jestConfig": "apps/frontend/jest.config.js",
             "tsConfig": "apps/frontend/tsconfig.spec.json",
-            "setupFile": "apps/frontend/src/test-setup.ts"
+            "setupFile": "apps/frontend/src/test-setup.ts",
+            "passWithNoTests": true
           }
         }
       }
