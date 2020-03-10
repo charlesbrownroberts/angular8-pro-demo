@@ -28,7 +28,7 @@
   },
   "private": true,
   "dependencies": {
-    "@nrwl/schematics": "^8.12.9",
+    "@nrwl/schematics": "^8.12.10",
     "@angular/animations": "^9.0.5",
     "@angular/common": "^9.0.5",
     "@angular/compiler": "^9.0.5",
