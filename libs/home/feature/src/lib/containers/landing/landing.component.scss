@@ -4,4 +4,24 @@
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
+
+  display:flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.landing-header {
+  flex: 0 0 50px;
+}
+
+.landing-body {
+  display:flex;
+  flex: 1 0 auto;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.signup {
+  flex: 0 0 auto;
+
 }
